@@ -6,4 +6,4 @@ URL shortener API
 
 [Frontend URL](https://password-reset-blog.netlify.app/)
 
-[Backend URL](https://password-reset-backend-n39j.onrender.com/)
+[Backend URL](https://urlshortener-backend-kd64.onrender.com/)
